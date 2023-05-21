@@ -5,6 +5,7 @@
 #include <cstring>
 using namespace std;
 
+
 class resturantMenu
 {
     char mainMenu[100], itemMenu[100];
